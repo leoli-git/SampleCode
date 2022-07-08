@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{1EF5AE72-4C9A-4FFE-AB42-FF9CFE001448}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum 應用範例", "..\Enum 應用範例\Enum 應用範例.csproj", "{4750DA44-D645-41EB-93C4-456219C2C7A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuget", "..\Nuget\Nuget.csproj", "{83A197DA-7C04-4D06-AA51-D9A32FE2630D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF5AE72-4C9A-4FFE-AB42-FF9CFE001448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF5AE72-4C9A-4FFE-AB42-FF9CFE001448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF5AE72-4C9A-4FFE-AB42-FF9CFE001448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF5AE72-4C9A-4FFE-AB42-FF9CFE001448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4750DA44-D645-41EB-93C4-456219C2C7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4750DA44-D645-41EB-93C4-456219C2C7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4750DA44-D645-41EB-93C4-456219C2C7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4750DA44-D645-41EB-93C4-456219C2C7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A197DA-7C04-4D06-AA51-D9A32FE2630D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A197DA-7C04-4D06-AA51-D9A32FE2630D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A197DA-7C04-4D06-AA51-D9A32FE2630D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A197DA-7C04-4D06-AA51-D9A32FE2630D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0E856F-E351-4EF0-BFFB-7211ACBADD07}
+	EndGlobalSection
+EndGlobal
